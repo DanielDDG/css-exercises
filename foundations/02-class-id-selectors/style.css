@@ -1,0 +1,19 @@
+.main {
+    background-color: #f78686;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numbertwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.main.special {
+    font-size: 36px;
+}
+
+#numberfour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
